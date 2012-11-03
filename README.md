@@ -1,4 +1,29 @@
-ec2-copy-snapshot
-=================
+# Ec2::Copy::Snapshot
 
-Script to copy a snapshot between EC2 regions.
+TODO: Write a gem description
+
+## Installation
+
+Add this line to your application's Gemfile:
+
+    gem 'ec2-copy-snapshot'
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install ec2-copy-snapshot
+
+## Usage
+
+TODO: Write usage instructions here
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
